@@ -2,10 +2,13 @@
 Me chamo Rodrigo Alex Bamfi, estudante do curso de Análise e Desenvolvimento de Sistemas e conclui o curso do Entra21 - Java aqui da minha cidade de Blumenau - Santa Catarina, estou na área de informática praticamente desde dos meus 4 anos de idade aprendendo informática com meu pai e jogando vídeo game, sou apaixonado por essa área de tecnologia e suas inovações, atualmente estou trabalhando com Suporte ao Usuário (HelpDesk) e busco uma transição de carreira para a programação.
 
 ## 🚀 Aprendizado
-Como tudo é um aprendizado, quando tinha por volta de 15 anos brincava de construir e editar sites prontos pelo Adobe DreamWeaver para nosso clã de jogos, e com esse aprendizado tive facilidade em algumas partes com front-end "HTML, CSS e Javascript" no qual aprendi um pouco através de estudos pessoais, porem o que me chamou bastante atenção foi aprender back-end com Java no curso Entra21 junto com banco de dados SQL, não é algo tão visual como front-end porem me sinto mais confortável no back-end, mas meu objetivo é expandir meus conhecimentos, um passo de cada vez sempre me aperfeiçoando.
+Como tudo é um aprendizado, quando tinha por volta de 15 anos brincava de construir e editar sites prontos pelo Adobe DreamWeaver para nosso clã de jogos, e com esse aprendizado tive facilidade em algumas partes com front-end "HTML, CSS e Javascript" no qual aprendi um pouco através de estudos pessoais, porem o que me chamou bastante atenção foi aprender back-end com Java no curso Entra21 junto com banco de dados SQL, não é algo tão visual como front-end porem me sinto mais confortável no back-end.
+
+Meu objetivo é expandir meus conhecimentos, um passo de cada vez sempre me aperfeiçoando.
 
 ## 💼 Profissional
-Minha jornada começou em 2012, trabalhei 7 anos como técnico de informática, efetuava agendamentos de backups para empresas, manutenção de computadores e soluções de problemas no dia a dia remotamente e atualmente estou a 5 anos em uma empresa de software para igrejas no qual atuo com suporte ao usuário (HelpDesk), efetuo treinamentos para os clientes, tiro suas duvidas e auxilio quanto a utilização do software, nesse meio tive contato com banco de dados Access, emitindo algumas consultas via banco de dados para os clientes.
+Minha jornada começou em 2012, trabalhei 7 anos como técnico de informática, efetuava agendamentos de backups para empresas, manutenção de computadores e soluções de problemas no dia a dia remotamente </br>
+Atualmente estou a 5 anos em uma empresa de software para igrejas no qual atuo com suporte ao usuário (HelpDesk), efetuo treinamentos para os clientes, tiro suas duvidas e auxilio quanto a utilização do software, nesse meio tive contato com banco de dados Access, emitindo algumas consultas via banco de dados para os clientes.
 
 Busco a transição de carreira como programador porque acredito que seja o futuro e fico fascinado nas possibilidades que podem ser desenvolvidas.
 
